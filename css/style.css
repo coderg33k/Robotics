@@ -43,3 +43,31 @@ a {
 .hero-image {
     width: 75%;
 }
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    line-height: 3rem;
+}
+.text-white {
+    color: white;
+}
+.copyright {
+    color: gray;
+}
+.fa-facebook {
+    color: #FFF;
+    padding: 10px;
+}
+.fa-twitter {
+    color: #FFF;
+    padding: 10px;
+}
+.fa-instagram {
+    color: #FFF;
+    padding: 10px;
+}
+.fa-linkedin {
+    color: #FFF;
+    padding: 10px;
+ }
